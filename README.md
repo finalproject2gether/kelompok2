@@ -1,6 +1,6 @@
-# Proyek MLOps End-to-End: Prediksi Persetujuan Pinjaman
+# Proyek ELT & Data Preparation for Non-Performing Loan (NPL) Analysis
 
-Proyek ini mendemonstrasikan alur kerja MLOps (Machine Learning Operations) lengkap, mulai dari pemrosesan data, pelatihan model, hingga penyajian model sebagai API untuk prediksi real-time.
+Proyek ini mendemonstrasikan alur kerja ELT serta terdapat tambahan menggunakan MLOps (Machine Learning Operations) lengkap, mulai dari pemrosesan data, pelatihan model, hingga penyajian model sebagai API untuk prediksi real-time.
 
 Arsitektur ini menggunakan Docker untuk mengorkestrasi beberapa layanan:
 - **Airflow**: Sebagai orkestrator untuk pipeline data (ELT).
